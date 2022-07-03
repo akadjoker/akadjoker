@@ -1,5 +1,9 @@
 # Olá, sou o  Luis Santos 👋
-
+<div id="raw" align="center">
+<br>
+<img src="https://raw.githubusercontent.com/lrosa-do/lrosa-do/main/giphy.gif" width="180" height="120" />
+<br>
+<div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/luis-miguel-rosa-santos-67673a178/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,6 +27,11 @@
 
 ---
 <div>
+<br />
+
+<img align="right" alt="GIF" src="https://github.com/lrosa-do/lrosa-do/raw/main/code.gif?raw=true" width="400" height="320" />
+
+<br />
 ### : About Me 👀 <br>
 hi, i'm Luis Santos, a passionate self-taught back end developer and a freelance software engineer from Portugal. my passion for software lies with dreaming up ideas and making them come true with 
 elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
