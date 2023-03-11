@@ -1,7 +1,7 @@
 # Olá, sou o  Luis Santos 👋
 <div id="raw" align="center">
 <br>
-<img src="https://raw.githubusercontent.com/lrosa-do/lrosa-do/main/Developer.gif" width="180" height="120" />
+<img src="https://github.com/lrosa-do/lrosa-do/raw/main/Developer.gif?raw=true" width="180" height="120" />
 <br>
 <div>
 <div id="badges" align="center">
