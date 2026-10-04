@@ -1,84 +1,69 @@
-# Olá, "Hello, World!" 👋
-<div id="raw" align="center">
-<br>
-<img src="https://raw.githubusercontent.com/akadjoker/akadjoker/main/dev.gif?raw=true" width="180" height="120" />
-<br>
-<div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/luis-miguel-rosa-santos-67673a178/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/djokersoft/">
-    <img src="https://img.shields.io/badge/Tweeter-blue?style=for-the-badge&logo=tweeter&logoColor=white" alt="Tweeter Badge"/>
-  </a>
+<div align="center">
 
-   <a href="https://www.youtube.com/user/djokerSoft/videos">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
+# Hi, I'm Luis (djoker) 👋
 
+**Software builder · C++ · Game engines · Virtual machines · Automotive data**
 
+<img src="https://raw.githubusercontent.com/akadjoker/akadjoker/main/dev.gif" width="180" alt="dev" />
 
----
-<div>
-<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-miguel-rosa-santos-67673a178/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/djokersoft/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/djokerSoft/videos)
 
-<img align="right" alt="GIF" src="https://github.com/lrosa-do/lrosa-do/raw/main/code.gif?raw=true" width="400" height="320" />
-
-<br />
+📍 Lisbon, Portugal
 
 </div>
-
-<div>
-<p></p>
-  - 🌱 I’m interested in Android Development, Cross Platform, Game Development and Graphics Engines!
-
-</div>
-<br>
-
-  </a>
-   <a href="https://github.com/lrosa-do">
-    <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
-</div>
-
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## 🧑‍💻 About me
 
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="c" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
-<img  alt="Haxe" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg">
-<img  alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img  alt="Qt" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">
-<img alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+I build performance-sensitive software, from automotive data tooling to custom game engines and scripting languages. I learn by prototyping, benchmarking and iterating.
 
+- 🚗 **Day job:** automotive software (message normalization, logs, diagnostics, SOME/IP, DLT, MDF4, MCAP)
+- 🎮 **Side projects:** custom 2D/3D engines, WebGL/OpenGL renderers, games and tech demos
+- 🧠 **Language design:** lexers, parsers, bytecode compilers and virtual machines (stack vs register)
+- 🎨 **Graphics:** shaders, materials, lighting, shadows, scene systems
+- 🌱 **Currently exploring:** VM and runtime optimization, advanced rendering, cloud fundamentals, AI coding tools
+
+---
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++" alt="C++"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" title="C" alt="C"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python" alt="Python"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40" title="Lua" alt="Lua"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="40" height="40" title="OpenGL" alt="OpenGL"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="40" height="40" title="Qt" alt="Qt"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux" alt="Linux"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git" alt="Git"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bazel/bazel-original.svg" width="40" height="40" title="Bazel" alt="Bazel"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java" alt="Java"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg" width="40" height="40" title="Haxe" alt="Haxe"/>
+</p>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lrosa-do&show_icons=true&theme=dark&hide_border=true" height="160" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrosa-do&layout=compact&theme=dark&hide_border=true" height="160" alt="top languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=lrosa-do&theme=dark&hide_border=true" alt="streak"/>
 </div>
 
+---
 
-### :fire: My Stats :
+## 🎬 Find me
 
-<div id="stats" align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=lrosa-do&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="LinkedIn Badge"/>
+- 📺 Technical demos and videos on [YouTube](https://www.youtube.com/user/djokerSoft/videos)
+- 🐦 Updates on [X](https://twitter.com/djokersoft/)
+- 💬 Open to talking about engines, VMs, rendering and automotive tooling
+
+<div align="center">
+  <sub>Built with C++, coffee and too many benchmarks.</sub>
 </div>
-    
-<div id="stats" align="center">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=lrosa-do&show_icons=true&theme=dark"/>
-  </a>
-</div>
-
-<div id="stats" align="center">  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrosa-do&layout=compact&theme=dark" alt="42 Badge"/>
-  </a>
-</div>
-
-
