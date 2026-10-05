@@ -2,68 +2,87 @@
 
 # Hi, I'm Luis (djoker) 👋
 
-**Software builder · C++ · Game engines · Virtual machines · Automotive data**
+**Software Engineer · C++ · Game Engines · Virtual Machines · Automotive Systems**
 
-<img src="https://raw.githubusercontent.com/akadjoker/akadjoker/main/dev.gif" width="180" alt="dev" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-miguel-rosa-santos-67673a178/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/djokersoft/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/djokerSoft/videos)
-
-📍 Lisbon, Portugal
-
-</div>
-
----
-
-## 🧑‍💻 About me
-
-I build performance-sensitive software, from automotive data tooling to custom game engines and scripting languages. I learn by prototyping, benchmarking and iterating.
-
-- 🚗 **Day job:** automotive software DevOps
-- 🎮 **Side projects:** custom 2D/3D engines, WebGL/OpenGL renderers, games and tech demos
-- 🧠 **Language design:** lexers, parsers, bytecode compilers and virtual machines (stack vs register)
-- 🎨 **Graphics:** shaders, materials, lighting, shadows, scene systems
-- 🌱 **Currently exploring:** VM and runtime optimization, advanced rendering, cloud fundamentals, AI coding tools
-
----
-
-## 🛠️ Tech stack
+<img src="https://raw.githubusercontent.com/akadjoker/akadjoker/main/dev.gif" width="180" alt="Coding animation" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++" alt="C++"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" title="C" alt="C"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python" alt="Python"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40" title="Lua" alt="Lua"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" alt="JavaScript"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="40" height="40" title="OpenGL" alt="OpenGL"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="40" height="40" title="Qt" alt="Qt"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux" alt="Linux"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git" alt="Git"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bazel/bazel-original.svg" width="40" height="40" title="Bazel" alt="Bazel"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java" alt="Java"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg" width="40" height="40" title="Haxe" alt="Haxe"/>
+  <a href="https://djokersoft.com"><img src="https://img.shields.io/badge/Website-djokersoft.com-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/luis-miguel-rosa-santos-67673a178/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/djokersoft/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://www.youtube.com/user/djokerSoft/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
----
+📍 *Lisbon, Portugal*
 
-## 📊 GitHub stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lrosa-do&show_icons=true&theme=dark&hide_border=true" height="160" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrosa-do&layout=compact&theme=dark&hide_border=true" height="160" alt="top languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=lrosa-do&theme=dark&hide_border=true" alt="streak"/>
 </div>
 
 ---
 
-## 🎬 Find me
+### 🧑‍💻 About Me
 
-- 📺 Technical demos and videos on [YouTube](https://www.youtube.com/user/djokerSoft/videos)
-- 🐦 Updates on [X](https://twitter.com/djokersoft/)
-- 💬 Open to talking about engines, VMs, rendering and automotive tooling
+I build performance-critical systems and low-level software — from automotive data pipelines to custom game engines and bytecode interpreters. I thrive on benchmarking, hardware-level architecture, and iterative prototyping.
+
+- 🚗 **Day Job:** Automotive Software DevOps & Tooling
+- 🎮 **Game Tech:** Custom 2D/3D engines, OpenGL/WebGL renderers, physics and scene graphs
+- 🧠 **Language Engineering:** Compilers, ASTs, bytecode execution, and custom Virtual Machines (stack & register-based)
+- 🎨 **Graphics:** Custom shaders, lighting models, materials, and real-time rendering pipelines
+- 🌱 **Currently Exploring:** Runtime optimizations, Vulkan/Modern GPU pipelines, cloud infrastructure, and AI-assisted workflows
+
+---
+
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
-  <sub>Built with C++, coffee and too many benchmarks.</sub>
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | `C++` `C` `Python` `Lua` `JavaScript` `Haxe` `Java` |
+| **Graphics & Frameworks** | `OpenGL` `Vulkan` `WebGL` `GLSL` `Qt` |
+| **DevOps & Build Systems** | `Linux` `Git` `Bazel` `CMake` `Docker` `CI/CD` |
+
+<br/>
+
+<!-- Devicons Bar -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++" title="C++"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38" height="38" alt="C" title="C"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="38" height="38" alt="Lua" title="Lua"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="38" height="38" alt="OpenGL" title="OpenGL"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="38" height="38" alt="Qt" title="Qt"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="38" height="38" alt="Linux" title="Linux"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bazel/bazel-original.svg" width="38" height="38" alt="Bazel" title="Bazel"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" height="38" alt="Git" title="Git"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg" width="38" height="38" alt="Haxe" title="Haxe"/>
+</p>
+
+</div>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lrosa-do&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrosa-do&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=lrosa-do&theme=dark&hide_border=true" alt="Streak Stats" />
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+- 🌐 **Website & Portfolio:** [djokersoft.com](https://djokersoft.com)
+- 📺 **Demos & Tech Breakdown:** [YouTube (@djokerSoft)](https://www.youtube.com/user/djokerSoft/videos)
+- 🐦 **Thoughts & Short Updates:** [X (@djokersoft)](https://twitter.com/djokersoft/)
+- 💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/luis-miguel-rosa-santos-67673a178/)
+- 💬 **Always open to discussing:** Game engines, low-level compilers, custom VMs, and automotive tooling.
+
+<br/>
+
+<div align="center">
+  <sub>⚡ Built with C++, low-level passion, and way too many benchmarks.</sub>
 </div>
