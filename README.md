@@ -20,7 +20,7 @@
 
 I build performance-sensitive software, from automotive data tooling to custom game engines and scripting languages. I learn by prototyping, benchmarking and iterating.
 
-- 🚗 **Day job:** automotive software (message normalization, logs, diagnostics, SOME/IP, DLT, MDF4, MCAP)
+- 🚗 **Day job:** automotive software DevOps
 - 🎮 **Side projects:** custom 2D/3D engines, WebGL/OpenGL renderers, games and tech demos
 - 🧠 **Language design:** lexers, parsers, bytecode compilers and virtual machines (stack vs register)
 - 🎨 **Graphics:** shaders, materials, lighting, shadows, scene systems
